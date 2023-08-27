@@ -7,7 +7,8 @@
  
   [♦️ YOU CAN SEE DEMO OF CLONE HERE -> ](https://movix-eta.vercel.app/)
 
-  # Technologies used:
+  # TECHNOLOGIES USED:
+  
   * HTML
   * CSS
   * JAVASCRIPT
