@@ -4,17 +4,17 @@
   And it also generates random background images on reload.
    It focuses on Frontend using Browser Data APIand Backend using TMDB API.
    
- # IMDB CLONE LINK:
+ # LIVE LINK:
  
   [♦️ YOU CAN SEE DEMO OF CLONE HERE -> ](https://movix-eta.vercel.app/)
 
   # Languages & softwares used:
-  *HTML
-  *CSS
-  *JAVASCRIPT
-  *REACT
-  *NODEJS
-  *REDUX TOOL KIT
-  *TMDB API
-  *VERCEL 
+  * HTML
+  * CSS
+  * JAVASCRIPT
+  * REACT
+  * NODEJS
+  * REDUX TOOL KIT
+  * TMDB API
+  * VERCEL 
   
